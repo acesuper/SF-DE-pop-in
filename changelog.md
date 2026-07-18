@@ -1,6 +1,6 @@
 ## SF DE pop in
 
-###### Version 1.0b
+###### Version 1.1
 
 * more optimized FH
 

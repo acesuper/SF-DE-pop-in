@@ -1,8 +1,7 @@
 ## SF DE pop in
 
-###### Version 1.1c
+###### Version 1.1d
 
-* tweaked enemy spawn on platforms
 * more optimization in FH
 
 
